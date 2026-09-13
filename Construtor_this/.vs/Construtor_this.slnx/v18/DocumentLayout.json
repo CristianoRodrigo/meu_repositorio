@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\crist\\OneDrive\\Documents\\meu_repositorio\\Construtor_this\\",
+  "WorkspaceRootPath": "C:\\Users\\crist\\Documents\\meu_repositorio\\Construtor_this\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|c:\\users\\crist\\onedrive\\documents\\meu_repositorio\\construtor_this\\construtor_this\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|solutionrelative:construtor_this\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|c:\\users\\crist\\documents\\meu_repositorio\\construtor_this\\construtor_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|solutionrelative:construtor_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|c:\\users\\crist\\onedrive\\documents\\meu_repositorio\\construtor_this\\construtor_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|solutionrelative:construtor_this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|c:\\users\\crist\\documents\\meu_repositorio\\construtor_this\\construtor_this\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6A2202-B320-1810-5974-6241F4039669}|Construtor_this\\Construtor_this.csproj|solutionrelative:construtor_this\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Produto.cs",
               "RelativeDocumentMoniker": "Construtor_this\\Produto.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Produto.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Produto.cs",
               "RelativeToolTip": "Construtor_this\\Produto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-10T17:48:49.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Program.cs",
               "RelativeDocumentMoniker": "Construtor_this\\Program.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\meu_repositorio\\Construtor_this\\Construtor_this\\Program.cs",
               "RelativeToolTip": "Construtor_this\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T17:47:49.14Z"
+              "WhenOpened": "2026-08-10T17:47:49.14Z",
+              "EditorCaption": ""
             }
           ]
         }

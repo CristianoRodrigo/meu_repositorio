@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course12\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{747C4E91-9CC4-829A-35FE-8EDC9777A6F7}|course12\\course12.csproj|c:\\users\\crist\\onedrive\\documents\\projetos_curso\\course12\\course12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{747C4E91-9CC4-829A-35FE-8EDC9777A6F7}|course12\\course12.csproj|solutionrelative:course12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\crist\\Documents\\meu_repositorio\\course12\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course12\\course12\\Program.cs",
-              "RelativeDocumentMoniker": "course12\\Program.cs",
-              "ToolTip": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course12\\course12\\Program.cs",
-              "RelativeToolTip": "course12\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T23:32:18.379Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
