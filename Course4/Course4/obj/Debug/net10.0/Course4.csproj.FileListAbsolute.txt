@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\bin\Debug\net10.0\Course4.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\bin\Debug\net10.0\Course4.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\bin\Debug\net10.0\Course4.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\bin\Debug\net10.0\Course4.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\bin\Debug\net10.0\Course4.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\refint\Course4.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\Course4.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course4\Course4\obj\Debug\net10.0\ref\Course4.dll

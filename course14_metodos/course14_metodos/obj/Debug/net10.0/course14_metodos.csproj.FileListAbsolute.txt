@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\bin\Debug\net10.0\course14_metodos.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\bin\Debug\net10.0\course14_metodos.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\bin\Debug\net10.0\course14_metodos.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\bin\Debug\net10.0\course14_metodos.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\bin\Debug\net10.0\course14_metodos.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\refint\course14_metodos.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\course14_metodos.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course14_metodos\course14_metodos\obj\Debug\net10.0\ref\course14_metodos.dll

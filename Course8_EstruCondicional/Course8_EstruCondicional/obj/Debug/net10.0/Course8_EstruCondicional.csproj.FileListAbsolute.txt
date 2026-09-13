@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\bin\Debug\net10.0\Course8_EstruCondicional.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\bin\Debug\net10.0\Course8_EstruCondicional.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\bin\Debug\net10.0\Course8_EstruCondicional.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\bin\Debug\net10.0\Course8_EstruCondicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\bin\Debug\net10.0\Course8_EstruCondicional.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\refint\Course8_EstruCondicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\Course8_EstruCondicional.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course8_EstruCondicional\Course8_EstruCondicional\obj\Debug\net10.0\ref\Course8_EstruCondicional.dll

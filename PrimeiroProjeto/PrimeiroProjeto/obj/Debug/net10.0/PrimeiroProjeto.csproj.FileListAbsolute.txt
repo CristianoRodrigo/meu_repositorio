@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\refint\PrimeiroProjeto.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\ref\PrimeiroProjeto.dll

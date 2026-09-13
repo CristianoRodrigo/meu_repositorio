@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\bin\Debug\net10.0\atividade_static.exe
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\bin\Debug\net10.0\atividade_static.deps.json
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\bin\Debug\net10.0\atividade_static.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\bin\Debug\net10.0\atividade_static.dll
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\bin\Debug\net10.0\atividade_static.pdb
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.dll
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\refint\atividade_static.dll
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.pdb
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\atividade_static.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\meu_repositorio\atividade_static\atividade_static\obj\Debug\net10.0\ref\atividade_static.dll

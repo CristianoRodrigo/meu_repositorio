@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Course13_classe/1.0.0": {
+        "runtime": {
+          "Course13_classe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Course13_classe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

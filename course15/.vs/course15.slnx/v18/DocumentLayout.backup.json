@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4DCDC3-D359-C00D-EA61-7E4D45DCB2B2}|course15\\course15.csproj|c:\\users\\crist\\onedrive\\documents\\projetos_curso\\course15\\course15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4DCDC3-D359-C00D-EA61-7E4D45DCB2B2}|course15\\course15.csproj|solutionrelative:course15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4DCDC3-D359-C00D-EA61-7E4D45DCB2B2}|course15\\course15.csproj|c:\\users\\crist\\onedrive\\documents\\projetos_curso\\course15\\course15\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4DCDC3-D359-C00D-EA61-7E4D45DCB2B2}|course15\\course15.csproj|solutionrelative:course15\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course15\\course15\\Produto.cs",
+              "RelativeDocumentMoniker": "course15\\Produto.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course15\\course15\\Produto.cs",
+              "RelativeToolTip": "course15\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:17:27.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course15\\course15\\Program.cs",
+              "RelativeDocumentMoniker": "course15\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\OneDrive\\Documents\\projetos_curso\\course15\\course15\\Program.cs*",
+              "RelativeToolTip": "course15\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:14:54.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

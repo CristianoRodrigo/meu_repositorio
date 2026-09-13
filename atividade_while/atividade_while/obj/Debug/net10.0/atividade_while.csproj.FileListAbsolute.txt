@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\bin\Debug\net10.0\atividade_while.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\bin\Debug\net10.0\atividade_while.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\bin\Debug\net10.0\atividade_while.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\bin\Debug\net10.0\atividade_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\bin\Debug\net10.0\atividade_while.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\refint\atividade_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\atividade_while.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_while\atividade_while\obj\Debug\net10.0\ref\atividade_while.dll

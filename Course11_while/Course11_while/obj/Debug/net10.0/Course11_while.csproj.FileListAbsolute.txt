@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\bin\Debug\net10.0\Course11_while.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\bin\Debug\net10.0\Course11_while.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\bin\Debug\net10.0\Course11_while.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\bin\Debug\net10.0\Course11_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\bin\Debug\net10.0\Course11_while.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\refint\Course11_while.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\Course11_while.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\Course11_while\Course11_while\obj\Debug\net10.0\ref\Course11_while.dll

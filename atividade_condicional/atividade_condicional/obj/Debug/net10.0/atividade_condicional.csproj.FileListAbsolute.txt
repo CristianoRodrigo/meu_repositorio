@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\bin\Debug\net10.0\atividade_condicional.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\bin\Debug\net10.0\atividade_condicional.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\bin\Debug\net10.0\atividade_condicional.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\bin\Debug\net10.0\atividade_condicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\bin\Debug\net10.0\atividade_condicional.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\refint\atividade_condicional.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\atividade_condicional.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_condicional\atividade_condicional\obj\Debug\net10.0\ref\atividade_condicional.dll

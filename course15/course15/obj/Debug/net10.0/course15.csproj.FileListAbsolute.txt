@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\bin\Debug\net10.0\course15.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\bin\Debug\net10.0\course15.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\bin\Debug\net10.0\course15.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\bin\Debug\net10.0\course15.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\bin\Debug\net10.0\course15.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\refint\course15.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\course15.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\course15\course15\obj\Debug\net10.0\ref\course15.dll

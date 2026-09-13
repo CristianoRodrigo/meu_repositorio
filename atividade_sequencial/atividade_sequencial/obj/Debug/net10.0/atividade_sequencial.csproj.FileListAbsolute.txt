@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\bin\Debug\net10.0\atividade_sequencial.exe
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\bin\Debug\net10.0\atividade_sequencial.deps.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\bin\Debug\net10.0\atividade_sequencial.runtimeconfig.json
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\bin\Debug\net10.0\atividade_sequencial.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\bin\Debug\net10.0\atividade_sequencial.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\refint\atividade_sequencial.dll
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.pdb
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\atividade_sequencial.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documents\projetos_curso\atividade_sequencial\atividade_sequencial\obj\Debug\net10.0\ref\atividade_sequencial.dll
